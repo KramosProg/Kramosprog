@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I´m Kramos :3
+
+<html>
+  <body> 
+  <img src="https://github.com/KramosProg/Kramosprog/blob/main/dino.gif?raw=true" alt="" style="max-width:100%;">
+  </body>
+  </html>
 
 <!--
 **KramosProg/Kramosprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
