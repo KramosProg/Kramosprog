@@ -10,7 +10,8 @@
     <h1> show my works ☄️ </h1>
     
     
-    My discord is: </Kramos>#0001
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kramosprog)](https://github.com/anuraghazra/github-readme-stats)
+
     
   
   <img src="https://github.com/KramosProg/Kramosprog/blob/main/dino.gif?raw=true" alt="" style="max-width:100%;">
