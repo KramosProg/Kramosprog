@@ -4,10 +4,10 @@
   <head> 
     <center><h1> Hi Word  👋 ! Im kramos, im developer 😅 </h1></center>
   </head>
-  
-    <h3> i love programming 🤤 but i’m looking for help with js, python, lua..  </h3>
+  <body>
+     i love programming 🤤 but i’m looking for help with js, python, lua..
     
-    <h2> my discord: Kramos#0001 </h2>
+    my discord: </Kramos>#0001 
   <img src="https://github.com/KramosProg/Kramosprog/blob/main/dino.gif?raw=true" alt="" style="max-width:100%;">
   </body>
   </html>
