@@ -23,7 +23,8 @@
 
 
 - 🖥 &nbsp;
-  ![Photoshop](https://hit.yhype.me/github/profile?user_id=67212353)
+![](https://komarev.com/ghpvc/?username=kramosprog&color=green)
+
 
 
 <br/>
