@@ -21,6 +21,12 @@
   ![light Room](https://img.shields.io/badge/-LightRoom-333333?style=flat&logo=adobe-lightroom)
  ![premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
 
+<h3> 🛠 &nbsp;Status: </h3>
+<img width="50%" align="right" src= "https://discord.c99.nl/widget/theme-4/439553801075163136.png">
+
+
+- 🌐 &nbsp;
+![](https://hit.yhype.me/github/profile?user_id=67212353&style=flat)
 <br/>
 
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-7532a8?style=flat-square&labelColor=7532a8&logo=twitch&logoColor=white&link=https://twitch.tv/kramosoz)](https://twitch.tv/kramosoz) [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCF0z5YjiR4UVf86dNXFNxQQ)](https://www.youtube.com/channel/UCF0z5YjiR4UVf86dNXFNxQQ)
