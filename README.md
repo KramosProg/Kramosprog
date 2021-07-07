@@ -23,7 +23,7 @@
 
 
 - 🖥 &nbsp;
-![](https://komarev.com/ghpvc/?username=kramosprog&color=green)
+![](https://komarev.com/ghpvc/?username=kramosprog&color=blue)
 
 
 
