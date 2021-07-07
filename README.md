@@ -22,8 +22,8 @@
  ![premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
 
 
-- 🌐 Status: &nbsp;
-![](https://hit.yhype.me/github/profile?user_id=67212353&style=flat)
+- 🌐 &nbsp;
+![](https://hit.yhype.me/github/profile?user_id=67212353)
 
 
 <br/>
