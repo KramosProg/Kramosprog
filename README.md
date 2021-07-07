@@ -22,7 +22,7 @@
  ![premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
 
 
--⌚&nbsp;
+- ⌚️ &nbsp;
 ![](https://komarev.com/ghpvc/?username=kramosprog&color=blue)
 
 
