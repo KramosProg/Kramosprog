@@ -2,7 +2,7 @@
 
 <html>
   <head> 
-    <center><h1> Hi Word  👋 ! Im kramos, im developer 😅 </h1></center>
+    <center><h1> Hi World  👋 ! Im kramos, im developer 😅 </h1></center>
   </head>
   <body>
     <h2> i love programming 🤤 but i’m looking for help with js, python, lua.. </h3>
