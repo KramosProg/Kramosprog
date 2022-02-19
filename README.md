@@ -1,7 +1,7 @@
 ### 🌍 "with me there are no limits, everything is possible " ☕
 
 <h3> 🛠 &nbsp;Developing in </h3>
-<img width="50%" align="right" src= "https://discord.c99.nl/widget/theme-5/439553801075163136.png">
+<img width="50%" align="right" src= "https://discord.c99.nl/widget/theme-4/439553801075163136.png">
 
 
 - 🌐 &nbsp;
