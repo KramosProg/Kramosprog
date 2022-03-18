@@ -1,7 +1,7 @@
 ### 🌍 "with me there are no limits, everything is possible " ☕
 
 <h3> 🛠 &nbsp;Developing in </h3>
-<img width="50%" align="right" src= "https://lanyard.cnrad.dev/api/439553801075163136">
+<img width="50%" align="right" src= "https://lanyard.cnrad.dev/api/439553801075163136?hideBadges=true">
 
 
 
